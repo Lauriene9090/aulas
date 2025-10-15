@@ -33,4 +33,19 @@ bibliotecas fornecidas por uma empresa para facilitar o uso da API
 // NODE
 // NPM
 
-npm init -y8
+npm init -y8npx tsc --init -> configuração do typescript
+
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "outDir": "./dist"
+  },
+  "include": ["src", "test"]
+}
+
+
