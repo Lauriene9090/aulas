@@ -30,6 +30,18 @@ bibliotecas fornecidas por uma empresa para facilitar o uso da API
 -Formatos de Respostas 
 -- XML / JSON
 
+
+
+instalações
+
+ npm init -y
+
+ npm i -D typescript
+
+ npx tsc --init
+
+ npm i -D ts-node
+
 // NODE
 // NPM
 
