@@ -60,4 +60,13 @@ npm init -y8npx tsc --init -> configuração do typescript
   "include": ["src", "test"]
 }
 
+------------------------------------------------------------------------------------------------------------
+
+instalações:
+npm init -y
+npm i -D typescript
+npx tsc --init //criar ts config
+criar um novo cript. EX:'start": "node -import=tsx --watch  ./src/server.ts
+npm i express
+npm i -D @types/express
 
