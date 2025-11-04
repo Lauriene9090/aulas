@@ -69,4 +69,7 @@ npx tsc --init //criar ts config
 criar um novo cript. EX:'start": "node -import=tsx --watch  ./src/server.ts
 npm i express
 npm i -D @types/express
+ligar servidor: npm start
+npm i helmet 
+npm i -D @types/helmet
 
