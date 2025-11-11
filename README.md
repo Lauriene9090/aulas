@@ -66,7 +66,7 @@ instalações:
 npm init -y
 npm i -D typescript
 npx tsc --init //criar ts config
-criar um novo cript. EX:'start": "node -import=tsx --watch  ./src/server.ts
+criar um novo cript. EX: ./src'start": "node -import=tsx --watch /server.ts
 npm i express
 npm i -D @types/express
 ligar servidor: npm start
